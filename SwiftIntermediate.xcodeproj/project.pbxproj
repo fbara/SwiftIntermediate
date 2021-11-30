@@ -11,6 +11,7 @@
 		ADEB230C2755701F00704214 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEB230B2755701F00704214 /* ContentView.swift */; };
 		ADEB230E2755702100704214 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ADEB230D2755702100704214 /* Assets.xcassets */; };
 		ADEB23112755702100704214 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ADEB23102755702100704214 /* Preview Assets.xcassets */; };
+		ADF32A96275692650040D642 /* LongPressGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF32A95275692650040D642 /* LongPressGestureBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		ADEB230B2755701F00704214 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		ADEB230D2755702100704214 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ADEB23102755702100704214 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		ADF32A95275692650040D642 /* LongPressGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongPressGestureBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				ADEB230B2755701F00704214 /* ContentView.swift */,
 				ADEB230D2755702100704214 /* Assets.xcassets */,
 				ADEB230F2755702100704214 /* Preview Content */,
+				ADF32A95275692650040D642 /* LongPressGestureBootcamp.swift */,
 			);
 			path = SwiftIntermediate;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			files = (
 				ADEB230C2755701F00704214 /* ContentView.swift in Sources */,
 				ADEB230A2755701F00704214 /* SwiftIntermediateApp.swift in Sources */,
+				ADF32A96275692650040D642 /* LongPressGestureBootcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
