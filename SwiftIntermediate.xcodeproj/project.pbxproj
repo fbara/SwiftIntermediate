@@ -12,6 +12,7 @@
 		ADEB230E2755702100704214 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ADEB230D2755702100704214 /* Assets.xcassets */; };
 		ADEB23112755702100704214 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ADEB23102755702100704214 /* Preview Assets.xcassets */; };
 		ADF32A96275692650040D642 /* LongPressGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF32A95275692650040D642 /* LongPressGestureBootcamp.swift */; };
+		ADF32A98275697040040D642 /* MagnificationGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF32A97275697040040D642 /* MagnificationGestureBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		ADEB230D2755702100704214 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ADEB23102755702100704214 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		ADF32A95275692650040D642 /* LongPressGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongPressGestureBootcamp.swift; sourceTree = "<group>"; };
+		ADF32A97275697040040D642 /* MagnificationGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MagnificationGestureBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				ADEB230D2755702100704214 /* Assets.xcassets */,
 				ADEB230F2755702100704214 /* Preview Content */,
 				ADF32A95275692650040D642 /* LongPressGestureBootcamp.swift */,
+				ADF32A97275697040040D642 /* MagnificationGestureBootcamp.swift */,
 			);
 			path = SwiftIntermediate;
 			sourceTree = "<group>";
@@ -142,6 +145,7 @@
 			files = (
 				ADEB230C2755701F00704214 /* ContentView.swift in Sources */,
 				ADEB230A2755701F00704214 /* SwiftIntermediateApp.swift in Sources */,
+				ADF32A98275697040040D642 /* MagnificationGestureBootcamp.swift in Sources */,
 				ADF32A96275692650040D642 /* LongPressGestureBootcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
