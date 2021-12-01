@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AD0F387D2757DE7B003A11C3 /* RotationGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0F387C2757DE7A003A11C3 /* RotationGestureBootcamp.swift */; };
 		ADEB230A2755701F00704214 /* SwiftIntermediateApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEB23092755701F00704214 /* SwiftIntermediateApp.swift */; };
 		ADEB230C2755701F00704214 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEB230B2755701F00704214 /* ContentView.swift */; };
 		ADEB230E2755702100704214 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ADEB230D2755702100704214 /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		AD0F387C2757DE7A003A11C3 /* RotationGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotationGestureBootcamp.swift; sourceTree = "<group>"; };
 		ADEB23062755701F00704214 /* SwiftIntermediate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftIntermediate.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ADEB23092755701F00704214 /* SwiftIntermediateApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftIntermediateApp.swift; sourceTree = "<group>"; };
 		ADEB230B2755701F00704214 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 				ADEB230F2755702100704214 /* Preview Content */,
 				ADF32A95275692650040D642 /* LongPressGestureBootcamp.swift */,
 				ADF32A97275697040040D642 /* MagnificationGestureBootcamp.swift */,
+				AD0F387C2757DE7A003A11C3 /* RotationGestureBootcamp.swift */,
 			);
 			path = SwiftIntermediate;
 			sourceTree = "<group>";
@@ -147,6 +150,7 @@
 				ADEB230A2755701F00704214 /* SwiftIntermediateApp.swift in Sources */,
 				ADF32A98275697040040D642 /* MagnificationGestureBootcamp.swift in Sources */,
 				ADF32A96275692650040D642 /* LongPressGestureBootcamp.swift in Sources */,
+				AD0F387D2757DE7B003A11C3 /* RotationGestureBootcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
