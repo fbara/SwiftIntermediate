@@ -11,6 +11,7 @@
 		AD0F387F2757E0A9003A11C3 /* DragGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0F387E2757E0A9003A11C3 /* DragGestureBootcamp.swift */; };
 		AD0F3882275813CB003A11C3 /* DragGestureBootcamp2.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0F3881275813CB003A11C3 /* DragGestureBootcamp2.swift */; };
 		AD69113B27591B1300F64569 /* ScrollViewReaderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD69113A27591B1300F64569 /* ScrollViewReaderBootcamp.swift */; };
+		AD69113E2759314300F64569 /* GeometryReaderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD69113D2759314300F64569 /* GeometryReaderBootcamp.swift */; };
 		ADEB230A2755701F00704214 /* SwiftIntermediateApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEB23092755701F00704214 /* SwiftIntermediateApp.swift */; };
 		ADEB230C2755701F00704214 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEB230B2755701F00704214 /* ContentView.swift */; };
 		ADEB230E2755702100704214 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ADEB230D2755702100704214 /* Assets.xcassets */; };
@@ -24,6 +25,7 @@
 		AD0F387E2757E0A9003A11C3 /* DragGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureBootcamp.swift; sourceTree = "<group>"; };
 		AD0F3881275813CB003A11C3 /* DragGestureBootcamp2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureBootcamp2.swift; sourceTree = "<group>"; };
 		AD69113A27591B1300F64569 /* ScrollViewReaderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewReaderBootcamp.swift; sourceTree = "<group>"; };
+		AD69113D2759314300F64569 /* GeometryReaderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReaderBootcamp.swift; sourceTree = "<group>"; };
 		ADEB23062755701F00704214 /* SwiftIntermediate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftIntermediate.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ADEB23092755701F00704214 /* SwiftIntermediateApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftIntermediateApp.swift; sourceTree = "<group>"; };
 		ADEB230B2755701F00704214 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +55,14 @@
 			path = RotationGesture;
 			sourceTree = "<group>";
 		};
+		AD69113C27591FE000F64569 /* GeometryReader */ = {
+			isa = PBXGroup;
+			children = (
+				AD69113D2759314300F64569 /* GeometryReaderBootcamp.swift */,
+			);
+			path = GeometryReader;
+			sourceTree = "<group>";
+		};
 		ADEB22FD2755701F00704214 = {
 			isa = PBXGroup;
 			children = (
@@ -73,6 +83,7 @@
 		ADEB23082755701F00704214 /* SwiftIntermediate */ = {
 			isa = PBXGroup;
 			children = (
+				AD69113C27591FE000F64569 /* GeometryReader */,
 				ADEB23092755701F00704214 /* SwiftIntermediateApp.swift */,
 				ADEB230B2755701F00704214 /* ContentView.swift */,
 				ADEB230D2755702100704214 /* Assets.xcassets */,
@@ -169,6 +180,7 @@
 				AD69113B27591B1300F64569 /* ScrollViewReaderBootcamp.swift in Sources */,
 				ADEB230A2755701F00704214 /* SwiftIntermediateApp.swift in Sources */,
 				ADF32A98275697040040D642 /* MagnificationGestureBootcamp.swift in Sources */,
+				AD69113E2759314300F64569 /* GeometryReaderBootcamp.swift in Sources */,
 				ADF32A96275692650040D642 /* LongPressGestureBootcamp.swift in Sources */,
 				AD0F387D2757DE7B003A11C3 /* RotationGestureBootcamp.swift in Sources */,
 			);
