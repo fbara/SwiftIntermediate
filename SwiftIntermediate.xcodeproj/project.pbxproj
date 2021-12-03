@@ -13,6 +13,7 @@
 		AD69113B27591B1300F64569 /* ScrollViewReaderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD69113A27591B1300F64569 /* ScrollViewReaderBootcamp.swift */; };
 		AD69113E2759314300F64569 /* GeometryReaderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD69113D2759314300F64569 /* GeometryReaderBootcamp.swift */; };
 		AD691140275935F800F64569 /* MultipleSheetsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD69113F275935F800F64569 /* MultipleSheetsBootcamp.swift */; };
+		ADA8CC0C275A74550045C964 /* MaskBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA8CC0B275A74550045C964 /* MaskBootcamp.swift */; };
 		ADEB230A2755701F00704214 /* SwiftIntermediateApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEB23092755701F00704214 /* SwiftIntermediateApp.swift */; };
 		ADEB230C2755701F00704214 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEB230B2755701F00704214 /* ContentView.swift */; };
 		ADEB230E2755702100704214 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ADEB230D2755702100704214 /* Assets.xcassets */; };
@@ -28,6 +29,7 @@
 		AD69113A27591B1300F64569 /* ScrollViewReaderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewReaderBootcamp.swift; sourceTree = "<group>"; };
 		AD69113D2759314300F64569 /* GeometryReaderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReaderBootcamp.swift; sourceTree = "<group>"; };
 		AD69113F275935F800F64569 /* MultipleSheetsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = MultipleSheetsBootcamp.swift; path = GeometryReader/MultipleSheetsBootcamp.swift; sourceTree = "<group>"; };
+		ADA8CC0B275A74550045C964 /* MaskBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaskBootcamp.swift; sourceTree = "<group>"; };
 		ADEB23062755701F00704214 /* SwiftIntermediate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftIntermediate.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ADEB23092755701F00704214 /* SwiftIntermediateApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftIntermediateApp.swift; sourceTree = "<group>"; };
 		ADEB230B2755701F00704214 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -95,6 +97,7 @@
 				ADF32A97275697040040D642 /* MagnificationGestureBootcamp.swift */,
 				AD0F3880275813B2003A11C3 /* RotationGesture */,
 				AD69113A27591B1300F64569 /* ScrollViewReaderBootcamp.swift */,
+				ADA8CC0B275A74550045C964 /* MaskBootcamp.swift */,
 			);
 			path = SwiftIntermediate;
 			sourceTree = "<group>";
@@ -178,6 +181,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				AD0F3882275813CB003A11C3 /* DragGestureBootcamp2.swift in Sources */,
+				ADA8CC0C275A74550045C964 /* MaskBootcamp.swift in Sources */,
 				AD0F387F2757E0A9003A11C3 /* DragGestureBootcamp.swift in Sources */,
 				ADEB230C2755701F00704214 /* ContentView.swift in Sources */,
 				AD69113B27591B1300F64569 /* ScrollViewReaderBootcamp.swift in Sources */,
