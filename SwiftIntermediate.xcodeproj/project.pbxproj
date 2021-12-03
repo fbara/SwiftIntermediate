@@ -17,6 +17,7 @@
 		ADA8CC0E275AAAC90045C964 /* SoundsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA8CC0D275AAAC90045C964 /* SoundsBootcamp.swift */; };
 		ADA8CC12275AAF870045C964 /* badum.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = ADA8CC10275AAF870045C964 /* badum.mp3 */; };
 		ADA8CC13275AAF870045C964 /* tada.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = ADA8CC11275AAF870045C964 /* tada.mp3 */; };
+		ADA8CC15275AB2340045C964 /* HapticsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA8CC14275AB2340045C964 /* HapticsBootcamp.swift */; };
 		ADEB230A2755701F00704214 /* SwiftIntermediateApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEB23092755701F00704214 /* SwiftIntermediateApp.swift */; };
 		ADEB230C2755701F00704214 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEB230B2755701F00704214 /* ContentView.swift */; };
 		ADEB230E2755702100704214 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ADEB230D2755702100704214 /* Assets.xcassets */; };
@@ -36,6 +37,7 @@
 		ADA8CC0D275AAAC90045C964 /* SoundsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundsBootcamp.swift; sourceTree = "<group>"; };
 		ADA8CC10275AAF870045C964 /* badum.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = badum.mp3; sourceTree = "<group>"; };
 		ADA8CC11275AAF870045C964 /* tada.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = tada.mp3; sourceTree = "<group>"; };
+		ADA8CC14275AB2340045C964 /* HapticsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HapticsBootcamp.swift; sourceTree = "<group>"; };
 		ADEB23062755701F00704214 /* SwiftIntermediate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftIntermediate.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ADEB23092755701F00704214 /* SwiftIntermediateApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftIntermediateApp.swift; sourceTree = "<group>"; };
 		ADEB230B2755701F00704214 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -76,6 +78,7 @@
 		ADA8CC0F275AAF730045C964 /* Sounds */ = {
 			isa = PBXGroup;
 			children = (
+				ADA8CC0D275AAAC90045C964 /* SoundsBootcamp.swift */,
 				ADA8CC10275AAF870045C964 /* badum.mp3 */,
 				ADA8CC11275AAF870045C964 /* tada.mp3 */,
 			);
@@ -114,7 +117,7 @@
 				AD0F3880275813B2003A11C3 /* RotationGesture */,
 				AD69113A27591B1300F64569 /* ScrollViewReaderBootcamp.swift */,
 				ADA8CC0B275A74550045C964 /* MaskBootcamp.swift */,
-				ADA8CC0D275AAAC90045C964 /* SoundsBootcamp.swift */,
+				ADA8CC14275AB2340045C964 /* HapticsBootcamp.swift */,
 			);
 			path = SwiftIntermediate;
 			sourceTree = "<group>";
@@ -209,6 +212,7 @@
 				ADEB230A2755701F00704214 /* SwiftIntermediateApp.swift in Sources */,
 				ADF32A98275697040040D642 /* MagnificationGestureBootcamp.swift in Sources */,
 				AD69113E2759314300F64569 /* GeometryReaderBootcamp.swift in Sources */,
+				ADA8CC15275AB2340045C964 /* HapticsBootcamp.swift in Sources */,
 				ADF32A96275692650040D642 /* LongPressGestureBootcamp.swift in Sources */,
 				AD0F387D2757DE7B003A11C3 /* RotationGestureBootcamp.swift in Sources */,
 			);
