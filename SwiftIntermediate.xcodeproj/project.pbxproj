@@ -18,6 +18,7 @@
 		ADA8CC12275AAF870045C964 /* badum.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = ADA8CC10275AAF870045C964 /* badum.mp3 */; };
 		ADA8CC13275AAF870045C964 /* tada.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = ADA8CC11275AAF870045C964 /* tada.mp3 */; };
 		ADA8CC15275AB2340045C964 /* HapticsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA8CC14275AB2340045C964 /* HapticsBootcamp.swift */; };
+		ADA8CC17275AC10F0045C964 /* LocalNotificationsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA8CC16275AC10F0045C964 /* LocalNotificationsBootcamp.swift */; };
 		ADEB230A2755701F00704214 /* SwiftIntermediateApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEB23092755701F00704214 /* SwiftIntermediateApp.swift */; };
 		ADEB230C2755701F00704214 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEB230B2755701F00704214 /* ContentView.swift */; };
 		ADEB230E2755702100704214 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ADEB230D2755702100704214 /* Assets.xcassets */; };
@@ -38,6 +39,7 @@
 		ADA8CC10275AAF870045C964 /* badum.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = badum.mp3; sourceTree = "<group>"; };
 		ADA8CC11275AAF870045C964 /* tada.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = tada.mp3; sourceTree = "<group>"; };
 		ADA8CC14275AB2340045C964 /* HapticsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HapticsBootcamp.swift; sourceTree = "<group>"; };
+		ADA8CC16275AC10F0045C964 /* LocalNotificationsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalNotificationsBootcamp.swift; sourceTree = "<group>"; };
 		ADEB23062755701F00704214 /* SwiftIntermediate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftIntermediate.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ADEB23092755701F00704214 /* SwiftIntermediateApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftIntermediateApp.swift; sourceTree = "<group>"; };
 		ADEB230B2755701F00704214 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -118,6 +120,7 @@
 				AD69113A27591B1300F64569 /* ScrollViewReaderBootcamp.swift */,
 				ADA8CC0B275A74550045C964 /* MaskBootcamp.swift */,
 				ADA8CC14275AB2340045C964 /* HapticsBootcamp.swift */,
+				ADA8CC16275AC10F0045C964 /* LocalNotificationsBootcamp.swift */,
 			);
 			path = SwiftIntermediate;
 			sourceTree = "<group>";
@@ -204,6 +207,7 @@
 			files = (
 				ADA8CC0E275AAAC90045C964 /* SoundsBootcamp.swift in Sources */,
 				AD0F3882275813CB003A11C3 /* DragGestureBootcamp2.swift in Sources */,
+				ADA8CC17275AC10F0045C964 /* LocalNotificationsBootcamp.swift in Sources */,
 				ADA8CC0C275A74550045C964 /* MaskBootcamp.swift in Sources */,
 				AD0F387F2757E0A9003A11C3 /* DragGestureBootcamp.swift in Sources */,
 				ADEB230C2755701F00704214 /* ContentView.swift in Sources */,
